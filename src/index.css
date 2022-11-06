@@ -1,9 +1,9 @@
-/* google font */
+/*Used google font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&family=VT323&display=swap');
 
 /* layout */
 :root {
-  --primary: #1aac83;
+  --primary: #004985;
   --error: #e7195a;
 }
 
@@ -27,11 +27,12 @@ header .container {
 }
 
 header a {
-  color: #333;
+  color: rgb(0, 73, 133);
   text-decoration: none;
 }
 
 .pages {
+  background-color: #7da1aa;
   max-width: 1400px;
   padding: 20px;
   margin: 0 auto;
